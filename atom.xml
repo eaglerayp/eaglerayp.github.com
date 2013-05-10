@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Test]]></title>
+  <link href="http://eaglerayp.github.io//atom.xml" rel="self"/>
+  <link href="http://eaglerayp.github.io/"/>
+  <updated>2013-05-10T08:42:21.070Z</updated>
+  <id>http://eaglerayp.github.io//</id>
+  <author>
+    <name><![CDATA[Eagle Rayp]]></name>
+  </author>
+  <generator uri="http://zespia.tw/hexo">Hexo</generator>
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://eaglerayp.github.io//2013/05/10/test/"/>
+    <id>http://eaglerayp.github.io//2013/05/10/test/</id>
+    <published>2013-05-10T07:36:37.000Z</published>
+    <updated>2013-05-10T07:38:58.000Z</updated>
+    <content type="html"><![CDATA[<h2>JIZZ </h2>
+<p>TEST</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://eaglerayp.github.io//2013/05/10/hello-world/"/>
+    <id>http://eaglerayp.github.io//2013/05/10/hello-world/</id>
+    <published>2013-05-10T07:36:26.000Z</published>
+    <updated>2013-05-10T07:36:26.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs">documentation</a> to learn how to use.</p>
+]]></content>
+  </entry>
+</feed>
