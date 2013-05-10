@@ -3,12 +3,20 @@
   <title><![CDATA[Test]]></title>
   <link href="http://eaglerayp.github.io//atom.xml" rel="self"/>
   <link href="http://eaglerayp.github.io/"/>
-  <updated>2013-05-10T08:42:21.070Z</updated>
+  <updated>2013-05-10T08:47:16.946Z</updated>
   <id>http://eaglerayp.github.io//</id>
   <author>
     <name><![CDATA[Eagle Rayp]]></name>
   </author>
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
+  <entry>
+    <title type="html"><![CDATA[test2]]></title>
+    <link href="http://eaglerayp.github.io//2013/05/10/test2/"/>
+    <id>http://eaglerayp.github.io//2013/05/10/test2/</id>
+    <published>2013-05-10T08:46:50.000Z</published>
+    <updated>2013-05-10T08:46:50.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+  </entry>
   <entry>
     <title type="html"><![CDATA[test]]></title>
     <link href="http://eaglerayp.github.io//2013/05/10/test/"/>
